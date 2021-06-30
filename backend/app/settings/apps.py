@@ -16,6 +16,7 @@ DJANGO_APPS = [
 
 PROJECT_APPS = [
     'api',
+    'user',
 ]
 
 INSTALLED_APPS = (VENDOR_APPS + DJANGO_APPS + PROJECT_APPS)
