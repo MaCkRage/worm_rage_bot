@@ -16,7 +16,7 @@ class Category(MPTTModel, UpdateFieldsMixin):
 
     class Meta:
         verbose_name = '(Под)Категория'
-        verbose_name_plural = 'Категорий (дерево)'
+        verbose_name_plural = 'Категорий'
         default_related_name = 'categories'
         ordering = ('title',)
 
