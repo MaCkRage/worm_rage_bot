@@ -6,6 +6,13 @@ name = "pypi"
 [packages]
 django = "*"
 django-rest-framework = "*"
+django-mptt = "*"
+install = "*"
+drf-yasg = "*"
+django-debug-toolbar = "*"
+psycopg2 = "*"
+python-dotenv = "*"
+django-bulk-update-or-create = "*"
 
 [dev-packages]
 

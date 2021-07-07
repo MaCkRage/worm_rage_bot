@@ -2,6 +2,8 @@ VENDOR_APPS = [
     'drf_yasg',
     'rest_framework',
     'rest_framework.authtoken',
+    'mptt',
+    'bulk_update_or_create',
 ]
 
 DJANGO_APPS = [
@@ -17,6 +19,7 @@ DJANGO_APPS = [
 PROJECT_APPS = [
     'api',
     'user',
+    'products',
 ]
 
 INSTALLED_APPS = (VENDOR_APPS + DJANGO_APPS + PROJECT_APPS)

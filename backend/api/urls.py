@@ -15,6 +15,7 @@ schema_view = get_schema_view(
 # AUTH
 urlpatterns = [
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+    path('products/', include('products.urls'))
 ]
 
 # APPS

@@ -1,0 +1,3368 @@
+{
+  "jobs": [
+    {
+      "image": "'https://images_1'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "XAV7C6D4HH",
+          "price": 50.73
+        },
+        {
+          "name": "SKFOCGXMVQ",
+          "price": 14.6,
+          "id": "6APULSE0CSTKJIX"
+        },
+        {
+          "name": "N5LR0CA5B0",
+          "price": 80.61
+        },
+        {
+          "name": "Y95ED7DQ3J",
+          "price": 93.82,
+          "id": "N5NEUQSLBTRCKG2"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.08,
+        "rating_count": 592
+      },
+      "id": 1,
+      "product_link": "https://www.amazon.com/dp/1"
+    },
+    {
+      "image": "'https://images_2'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "IG0NRGEHG1",
+          "price": 49.25
+        },
+        {
+          "name": "UP6191G48Z",
+          "price": 66.27,
+          "id": "CGO1IKMQOHWVJNT"
+        },
+        {
+          "name": "5KTZV9140J",
+          "price": 39.53
+        },
+        {
+          "name": "S4CKQWG4NY",
+          "price": 40.29,
+          "id": "ZXE82EB93TQRBB7"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.13,
+        "rating_count": 594
+      },
+      "id": 2,
+      "product_link": "https://www.amazon.com/dp/2",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_3'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "5UAUQBA3FF",
+          "price": 94.84
+        },
+        {
+          "name": "A96FH1VFW5",
+          "price": 41.53,
+          "id": "LBZW2IAY2CZKK46"
+        },
+        {
+          "name": "ZFO9C9Q23T",
+          "price": 95.68
+        },
+        {
+          "name": "N122UM4EB1",
+          "price": 31.04,
+          "id": "T6F6GIWV5EJYWFH"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.14,
+        "rating_count": 970
+      },
+      "id": 3,
+      "product_link": "https://www.amazon.com/dp/3",
+      "bsr": [
+        {
+          "position": 34054,
+          "category": "Books"
+        },
+        {
+          "position": 76758,
+          "category": "Physics"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_4'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "KXZQHMXFE6",
+          "price": 16.82
+        },
+        {
+          "name": "4CVO4WHDB8",
+          "price": 77.27,
+          "id": "7N9P0RALQD6O99K"
+        },
+        {
+          "name": "6CAPXOI4X1",
+          "price": 45.32
+        },
+        {
+          "name": "IVW9V17VW2",
+          "price": 17.14,
+          "id": "IHCA3YVX75C9CZX"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.8,
+        "rating_count": 766
+      },
+      "id": 4,
+      "product_link": "https://www.amazon.com/dp/4",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_5'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "D4SNDICSCV",
+          "price": 54.98
+        },
+        {
+          "name": "LXK93O2E0S",
+          "price": 76.26,
+          "id": "LPU2132KXT92G2M"
+        },
+        {
+          "name": "JI37LA4B4E",
+          "price": 12.19
+        },
+        {
+          "name": "IGFBSQVFY0",
+          "price": 29.8,
+          "id": "SVPO9IH7VEUCWQP"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.31,
+        "rating_count": 392
+      },
+      "id": 5,
+      "product_link": "https://www.amazon.com/dp/5"
+    },
+    {
+      "image": "'https://images_6'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "7ZWGUWJO1Z",
+          "price": 59.88
+        },
+        {
+          "name": "FRPIAPP6LW",
+          "price": 83.08,
+          "id": "YVTUTBFMCY3JENF"
+        },
+        {
+          "name": "MO118R4KZ8",
+          "price": 27.65
+        },
+        {
+          "name": "BVK6Z1B55X",
+          "price": 19.79,
+          "id": "944VZ2IIIK82TOT"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.49,
+        "rating_count": 265
+      },
+      "id": 6,
+      "product_link": "https://www.amazon.com/dp/6",
+      "bsr": [
+        {
+          "position": 35799,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_7'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "Q45KY7IVFJ",
+          "price": 34.48
+        },
+        {
+          "name": "DERX74J99T",
+          "price": 87.97,
+          "id": "AVJ26MZ47N7DIOU"
+        },
+        {
+          "name": "QW1C2FDXBD",
+          "price": 52.54
+        },
+        {
+          "name": "63AH1U3EUQ",
+          "price": 23.04,
+          "id": "1KUKPTWFE9QT9FW"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.41,
+        "rating_count": 413
+      },
+      "id": 7,
+      "product_link": "https://www.amazon.com/dp/7"
+    },
+    {
+      "image": "'https://images_8'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "Y49ULYRHVB",
+          "price": 37.06
+        },
+        {
+          "name": "G0X2136ANJ",
+          "price": 35.56,
+          "id": "82CZC5K4TJPA9OB"
+        },
+        {
+          "name": "Q0OYS130S0",
+          "price": 70.15
+        },
+        {
+          "name": "JF8QASCSC8",
+          "price": 48.11,
+          "id": "3KI7HQ0IY9K0Q1J"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.73,
+        "rating_count": 997
+      },
+      "id": 8,
+      "product_link": "https://www.amazon.com/dp/8",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_9'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "8APDMDS0FJ",
+          "price": 60.18
+        },
+        {
+          "name": "HJ3Z0JJNR7",
+          "price": 79.44,
+          "id": "BOS411DTFBOG0W4"
+        },
+        {
+          "name": "CUREYZR3JX",
+          "price": 22.27
+        },
+        {
+          "name": "8XL3PG0I8T",
+          "price": 46.98,
+          "id": "SOTXR7U0G8K8RLR"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.22,
+        "rating_count": 619
+      },
+      "id": 9,
+      "product_link": "https://www.amazon.com/dp/9",
+      "bsr": [
+        {
+          "position": 6387,
+          "category": "Health & Personal Care"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_10'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "WIJNQCSVFK",
+          "price": 12.12
+        },
+        {
+          "name": "CQWWS1KBPP",
+          "price": 10.41,
+          "id": "BN9DDHI9T8P6IFZ"
+        },
+        {
+          "name": "819IJMIOD6",
+          "price": 79.99
+        },
+        {
+          "name": "FUYOSW1HFM",
+          "price": 10.97,
+          "id": "XG6T2WGU1O3IUSA"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.37,
+        "rating_count": 713
+      },
+      "id": 10,
+      "product_link": "https://www.amazon.com/dp/10",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_11'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "YAYKT8IXYE",
+          "price": 66.31
+        },
+        {
+          "name": "LVMTTV731T",
+          "price": 67.18,
+          "id": "GBCOZ1N2TKGZRWX"
+        },
+        {
+          "name": "QB64HTDI38",
+          "price": 80.97
+        },
+        {
+          "name": "IY0PCDQQ3P",
+          "price": 76.1,
+          "id": "RZJSZB1O1LQH7PF"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.43,
+        "rating_count": 71
+      },
+      "id": 11,
+      "product_link": "https://www.amazon.com/dp/11"
+    },
+    {
+      "image": "'https://images_12'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "840Z31HYRA",
+          "price": 16.02
+        },
+        {
+          "name": "OY2RSMMS9J",
+          "price": 86.91,
+          "id": "2VOHJNV01IALDFL"
+        },
+        {
+          "name": "60LPOKGQAC",
+          "price": 66.14
+        },
+        {
+          "name": "GACK0FBXXP",
+          "price": 78.34,
+          "id": "OBGYY9MEQM01V90"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.72,
+        "rating_count": 218
+      },
+      "id": 12,
+      "product_link": "https://www.amazon.com/dp/12",
+      "bsr": [
+        {
+          "position": 89675,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_13'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "4QLDAOFU7W",
+          "price": 31.03
+        },
+        {
+          "name": "5K8R9GMMH2",
+          "price": 11.66,
+          "id": "SYCYFDW3QO8Y7DW"
+        },
+        {
+          "name": "XDXVZ5ALUM",
+          "price": 31.97
+        },
+        {
+          "name": "4YCXQKUEJ1",
+          "price": 60.95,
+          "id": "TE4RFOQHHPIFCDL"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.83,
+        "rating_count": 141
+      },
+      "id": 13,
+      "product_link": "https://www.amazon.com/dp/13"
+    },
+    {
+      "image": "'https://images_14'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "6HJVBMOZQ5",
+          "price": 24.09
+        },
+        {
+          "name": "4RJRC6RQKW",
+          "price": 14.5,
+          "id": "9ULLKJIK6ERBMBF"
+        },
+        {
+          "name": "3TNG6B5KVZ",
+          "price": 42.63
+        },
+        {
+          "name": "EF4CZGNEEQ",
+          "price": 98.08,
+          "id": "NUOB3E9A9J4127G"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.22,
+        "rating_count": 379
+      },
+      "id": 14,
+      "product_link": "https://www.amazon.com/dp/14",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_15'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "VTQKRW8QGF",
+          "price": 18.07
+        },
+        {
+          "name": "WN33RRHIJX",
+          "price": 45.78,
+          "id": "MXNPO8YRCWBAMHP"
+        },
+        {
+          "name": "TX616ZKJ4M",
+          "price": 32.9
+        },
+        {
+          "name": "352P82DTA9",
+          "price": 47.46,
+          "id": "MTIGAQSSBN7OW8T"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.94,
+        "rating_count": 398
+      },
+      "id": 15,
+      "product_link": "https://www.amazon.com/dp/15",
+      "bsr": [
+        {
+          "position": 33604,
+          "category": "Books"
+        },
+        {
+          "position": 47632,
+          "category": "Physics"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_16'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "FHP7NK3D4L",
+          "price": 33.98
+        },
+        {
+          "name": "E9Q9ZSB90X",
+          "price": 81.43,
+          "id": "O1JMWQYXGXD81RG"
+        },
+        {
+          "name": "J6P8JJUTVV",
+          "price": 67.73
+        },
+        {
+          "name": "XKFQT2B5A2",
+          "price": 63.66,
+          "id": "JYNJFDGXX1HOE9I"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.22,
+        "rating_count": 675
+      },
+      "id": 16,
+      "product_link": "https://www.amazon.com/dp/16",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_17'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "PZ6GDRLTW7",
+          "price": 88.61
+        },
+        {
+          "name": "MAG6ZMGD1M",
+          "price": 79.04,
+          "id": "9YFAK7ZHK9KMFFM"
+        },
+        {
+          "name": "VW6H26F3FN",
+          "price": 52.93
+        },
+        {
+          "name": "C8YOPF6ABX",
+          "price": 94.78,
+          "id": "O2N0F02NQVTNEGB"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.63,
+        "rating_count": 458
+      },
+      "id": 17,
+      "product_link": "https://www.amazon.com/dp/17"
+    },
+    {
+      "image": "'https://images_18'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "7ZHK10N30L",
+          "price": 80.73
+        },
+        {
+          "name": "YU8W74NKB6",
+          "price": 39.5,
+          "id": "HPWOMO0R4RUKUG8"
+        },
+        {
+          "name": "CYWWRSNA03",
+          "price": 16.64
+        },
+        {
+          "name": "AVT3DXVXLZ",
+          "price": 12.5,
+          "id": "JJWW2X3KT7VM7K7"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.57,
+        "rating_count": 466
+      },
+      "id": 18,
+      "product_link": "https://www.amazon.com/dp/18",
+      "bsr": [
+        {
+          "position": 65505,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_19'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "72NBVTC6X7",
+          "price": 14.2
+        },
+        {
+          "name": "JIW7HIZB0B",
+          "price": 54.1,
+          "id": "L1A55I83AQP72FE"
+        },
+        {
+          "name": "BC305V0X71",
+          "price": 29.86
+        },
+        {
+          "name": "68HJ1DX7LP",
+          "price": 33.03,
+          "id": "1YM40KZHY006XKT"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.54,
+        "rating_count": 926
+      },
+      "id": 19,
+      "product_link": "https://www.amazon.com/dp/19"
+    },
+    {
+      "image": "'https://images_20'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "13D8Y7GNN8",
+          "price": 63.6
+        },
+        {
+          "name": "YN7EZ7OH0D",
+          "price": 21.36,
+          "id": "F1X9028Y0C1S6ZU"
+        },
+        {
+          "name": "3S8Y8DUS0O",
+          "price": 28.91
+        },
+        {
+          "name": "LRPW43TU7O",
+          "price": 14.84,
+          "id": "A6HVWRECMY0PMKW"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.63,
+        "rating_count": 62
+      },
+      "id": 20,
+      "product_link": "https://www.amazon.com/dp/20",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_21'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "D0PLDB5YIC",
+          "price": 16.02
+        },
+        {
+          "name": "WT4FTVB63D",
+          "price": 61.84,
+          "id": "DFG5BSAZN6Y583N"
+        },
+        {
+          "name": "A83SA089JX",
+          "price": 98.28
+        },
+        {
+          "name": "VEP6AEWC5B",
+          "price": 56.06,
+          "id": "FS42INBWO5KE6PY"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.41,
+        "rating_count": 797
+      },
+      "id": 21,
+      "product_link": "https://www.amazon.com/dp/21",
+      "bsr": [
+        {
+          "position": 35425,
+          "category": "Health & Personal Care"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_22'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "L8Y78Q29HG",
+          "price": 18.19
+        },
+        {
+          "name": "W7S71ILDGW",
+          "price": 75.2,
+          "id": "7XTYKW2GS4UM0U2"
+        },
+        {
+          "name": "H5YPC5PPI9",
+          "price": 39.3
+        },
+        {
+          "name": "KYTVAPCJQZ",
+          "price": 85.98,
+          "id": "NBQ96J81090R5QQ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.23,
+        "rating_count": 340
+      },
+      "id": 22,
+      "product_link": "https://www.amazon.com/dp/22",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_23'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "THPML4QSPM",
+          "price": 68.28
+        },
+        {
+          "name": "YF79C9U40T",
+          "price": 30.99,
+          "id": "IC3PSMJOEK0K3UR"
+        },
+        {
+          "name": "UUNQRN11XQ",
+          "price": 35.31
+        },
+        {
+          "name": "80K7PSSRKV",
+          "price": 26.72,
+          "id": "HX9OX42MO59AIKN"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.69,
+        "rating_count": 160
+      },
+      "id": 23,
+      "product_link": "https://www.amazon.com/dp/23"
+    },
+    {
+      "image": "'https://images_24'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "BD2NXUMNDE",
+          "price": 74.55
+        },
+        {
+          "name": "J5RJPP151O",
+          "price": 17.97,
+          "id": "Q7UEA5G6DZCRGWJ"
+        },
+        {
+          "name": "084YSQYXMS",
+          "price": 11.39
+        },
+        {
+          "name": "KZCWHT8234",
+          "price": 57.52,
+          "id": "UWDBTUZBQNKFYCU"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.1,
+        "rating_count": 383
+      },
+      "id": 24,
+      "product_link": "https://www.amazon.com/dp/24",
+      "bsr": [
+        {
+          "position": 14170,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_25'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "JVMQPBK0SH",
+          "price": 15.42
+        },
+        {
+          "name": "9YL1NH078Y",
+          "price": 63.38,
+          "id": "EECQ54XBXC7UC7S"
+        },
+        {
+          "name": "HVCBQMXUOD",
+          "price": 26.97
+        },
+        {
+          "name": "TABC1ZNANA",
+          "price": 20.53,
+          "id": "07LL6AVFMYV26LJ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.47,
+        "rating_count": 732
+      },
+      "id": 25,
+      "product_link": "https://www.amazon.com/dp/25"
+    },
+    {
+      "image": "'https://images_26'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "EZV1WRZ02P",
+          "price": 83.18
+        },
+        {
+          "name": "N5YS5LTK4U",
+          "price": 26.33,
+          "id": "61CL0AWOTAETMQO"
+        },
+        {
+          "name": "ST8LWVDHW1",
+          "price": 84.94
+        },
+        {
+          "name": "M2ICU8908L",
+          "price": 31.43,
+          "id": "LVLXX8TYAP2A7EU"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.91,
+        "rating_count": 16
+      },
+      "id": 26,
+      "product_link": "https://www.amazon.com/dp/26",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_27'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "GYWOC0KD2Z",
+          "price": 40.59
+        },
+        {
+          "name": "9U32TCER53",
+          "price": 21.05,
+          "id": "64TWOG13SWYXV7V"
+        },
+        {
+          "name": "FU5HBR7WX5",
+          "price": 13.94
+        },
+        {
+          "name": "E7LTU2MOS1",
+          "price": 59.11,
+          "id": "5JO8WJITEFMIQR4"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.69,
+        "rating_count": 163
+      },
+      "id": 27,
+      "product_link": "https://www.amazon.com/dp/27",
+      "bsr": [
+        {
+          "position": 45181,
+          "category": "Books"
+        },
+        {
+          "position": 11343,
+          "category": "Physics"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_28'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "45MM9I97RI",
+          "price": 94.99
+        },
+        {
+          "name": "ZAFNDIIC8H",
+          "price": 80.13,
+          "id": "7P07TK0NQFQCKUQ"
+        },
+        {
+          "name": "HXSU9CNRH9",
+          "price": 95.99
+        },
+        {
+          "name": "ZDODGYGJGO",
+          "price": 30.63,
+          "id": "EHL6GF4CA6B9I7D"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.14,
+        "rating_count": 511
+      },
+      "id": 28,
+      "product_link": "https://www.amazon.com/dp/28",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_29'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "IVGBE3446P",
+          "price": 98.11
+        },
+        {
+          "name": "YB1Q7VQBXH",
+          "price": 61.72,
+          "id": "8A5N56ILFCE6FAC"
+        },
+        {
+          "name": "ZSE7T1FXFG",
+          "price": 65.22
+        },
+        {
+          "name": "UP8IKRW8B0",
+          "price": 69.24,
+          "id": "WZW07T3AEU1YCA2"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.79,
+        "rating_count": 443
+      },
+      "id": 29,
+      "product_link": "https://www.amazon.com/dp/29"
+    },
+    {
+      "image": "'https://images_30'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "AH6WPXAIII",
+          "price": 10.28
+        },
+        {
+          "name": "ZIVJ99GRLB",
+          "price": 47.06,
+          "id": "0UNOCMXHWDDQCA7"
+        },
+        {
+          "name": "V6I7HCD2DK",
+          "price": 19.97
+        },
+        {
+          "name": "5UES1TSXO9",
+          "price": 54.33,
+          "id": "JRK9MQ4I48NW17N"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.48,
+        "rating_count": 293
+      },
+      "id": 30,
+      "product_link": "https://www.amazon.com/dp/30",
+      "bsr": [
+        {
+          "position": 78281,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_31'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "SUQCG02TTE",
+          "price": 96.0
+        },
+        {
+          "name": "R62PQUJIER",
+          "price": 99.94,
+          "id": "D4FCH7175VUC47Q"
+        },
+        {
+          "name": "YHRPLIFKL1",
+          "price": 28.17
+        },
+        {
+          "name": "MFC5DTCAQR",
+          "price": 54.04,
+          "id": "8AMVER629JWHKMA"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.41,
+        "rating_count": 767
+      },
+      "id": 31,
+      "product_link": "https://www.amazon.com/dp/31"
+    },
+    {
+      "image": "'https://images_32'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "TF5I19JQR9",
+          "price": 43.61
+        },
+        {
+          "name": "8PHC52M6EO",
+          "price": 97.56,
+          "id": "9U2ZFE8BNEWZ7LB"
+        },
+        {
+          "name": "YCQN5ZZ3MC",
+          "price": 32.28
+        },
+        {
+          "name": "NSM4GTIEHH",
+          "price": 39.15,
+          "id": "0NM91ZURMWSZG9H"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.06,
+        "rating_count": 72
+      },
+      "id": 32,
+      "product_link": "https://www.amazon.com/dp/32",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_33'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "IHKDHIVEE6",
+          "price": 86.04
+        },
+        {
+          "name": "SSO684TYNX",
+          "price": 17.99,
+          "id": "YGHV6MQGC4CJF2C"
+        },
+        {
+          "name": "BXBRFHJSYH",
+          "price": 41.94
+        },
+        {
+          "name": "FWNCRUX6I4",
+          "price": 47.94,
+          "id": "QQIUXCJ7JEW7YRN"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.09,
+        "rating_count": 616
+      },
+      "id": 33,
+      "product_link": "https://www.amazon.com/dp/33",
+      "bsr": [
+        {
+          "position": 180,
+          "category": "Books"
+        },
+        {
+          "position": 3307,
+          "category": "Physics"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_34'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "6K423A19LK",
+          "price": 47.82
+        },
+        {
+          "name": "KJUXB6MPCN",
+          "price": 89.48,
+          "id": "WPJZ9H1I94QRED4"
+        },
+        {
+          "name": "9T1SCFCDL7",
+          "price": 97.66
+        },
+        {
+          "name": "LZVWRBXKU7",
+          "price": 59.6,
+          "id": "W4OK0C1F6Q2BZA2"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.52,
+        "rating_count": 609
+      },
+      "id": 34,
+      "product_link": "https://www.amazon.com/dp/34",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_35'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "TPDSAJT1SQ",
+          "price": 31.02
+        },
+        {
+          "name": "GOMMWCSHNQ",
+          "price": 13.16,
+          "id": "MNWIWO3EQMWDXT9"
+        },
+        {
+          "name": "YIWNBKH33O",
+          "price": 99.38
+        },
+        {
+          "name": "F85EG5FVGS",
+          "price": 43.41,
+          "id": "84DB8R88Z1BLLLL"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.79,
+        "rating_count": 245
+      },
+      "id": 35,
+      "product_link": "https://www.amazon.com/dp/35"
+    },
+    {
+      "image": "'https://images_36'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "0NURE31SQY",
+          "price": 31.3
+        },
+        {
+          "name": "BCSLLT9CTB",
+          "price": 85.48,
+          "id": "INLOIMYV75GXDWB"
+        },
+        {
+          "name": "2UEGW63MDL",
+          "price": 96.58
+        },
+        {
+          "name": "V9GIAAC3FD",
+          "price": 21.04,
+          "id": "5VJVH7YLFS9DYMJ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.34,
+        "rating_count": 466
+      },
+      "id": 36,
+      "product_link": "https://www.amazon.com/dp/36",
+      "bsr": [
+        {
+          "position": 7824,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_37'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "FJMBYA14SG",
+          "price": 67.68
+        },
+        {
+          "name": "X0IUUCO7T9",
+          "price": 20.06,
+          "id": "D83DK3O6BEA9VAY"
+        },
+        {
+          "name": "23NRRYLXV4",
+          "price": 47.71
+        },
+        {
+          "name": "AGBEK0YLK8",
+          "price": 88.0,
+          "id": "S6NEJOUQ71TZYAJ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.52,
+        "rating_count": 921
+      },
+      "id": 37,
+      "product_link": "https://www.amazon.com/dp/37"
+    },
+    {
+      "image": "'https://images_38'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "WFV7BZVLHX",
+          "price": 64.31
+        },
+        {
+          "name": "GHHZJOAN1V",
+          "price": 74.69,
+          "id": "PM47NP3I8PD7O2T"
+        },
+        {
+          "name": "FSNYH0IGGX",
+          "price": 21.71
+        },
+        {
+          "name": "VM2VL2SQQN",
+          "price": 97.41,
+          "id": "5VIVB19JVMARU5N"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.94,
+        "rating_count": 748
+      },
+      "id": 38,
+      "product_link": "https://www.amazon.com/dp/38",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_39'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "POQNYB9QAT",
+          "price": 81.76
+        },
+        {
+          "name": "UIRYX1KTW5",
+          "price": 76.41,
+          "id": "K3N11S7CI7838AC"
+        },
+        {
+          "name": "C4J18WUOD9",
+          "price": 63.48
+        },
+        {
+          "name": "FAZQTTKG56",
+          "price": 27.92,
+          "id": "78527NMDDA8UW57"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.29,
+        "rating_count": 397
+      },
+      "id": 39,
+      "product_link": "https://www.amazon.com/dp/39",
+      "bsr": [
+        {
+          "position": 57610,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 73591,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 22935,
+          "category": "Office Labeling Tapes"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_40'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "4ZOS45FEUB",
+          "price": 36.35
+        },
+        {
+          "name": "RG2YWPNU2H",
+          "price": 58.39,
+          "id": "SN0ZIS7KS9V89FE"
+        },
+        {
+          "name": "YK9V95TCKN",
+          "price": 96.85
+        },
+        {
+          "name": "YSO533IYUN",
+          "price": 47.1,
+          "id": "BUSSOI7A96V8DD4"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.29,
+        "rating_count": 902
+      },
+      "id": 40,
+      "product_link": "https://www.amazon.com/dp/40",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_41'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "MT4SFLOU8V",
+          "price": 56.98
+        },
+        {
+          "name": "3GEUEDH14D",
+          "price": 89.84,
+          "id": "SSO87QU5CK0G5Z9"
+        },
+        {
+          "name": "HBBB2616CK",
+          "price": 58.47
+        },
+        {
+          "name": "IQVM1Q60PX",
+          "price": 10.45,
+          "id": "MXZCPJIQ4U2Z0KX"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.41,
+        "rating_count": 966
+      },
+      "id": 41,
+      "product_link": "https://www.amazon.com/dp/41"
+    },
+    {
+      "image": "'https://images_42'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "S4ZKFD3R0B",
+          "price": 68.51
+        },
+        {
+          "name": "8ZID7KQ2EK",
+          "price": 47.87,
+          "id": "8TU2CO66FTJIYT2"
+        },
+        {
+          "name": "BI8D7CWGOF",
+          "price": 19.6
+        },
+        {
+          "name": "WO7ITR8582",
+          "price": 48.3,
+          "id": "6ISYU7BAHNHN0YS"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.6,
+        "rating_count": 978
+      },
+      "id": 42,
+      "product_link": "https://www.amazon.com/dp/42",
+      "bsr": [
+        {
+          "position": 74580,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 47468,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 20899,
+          "category": "Office Labeling Tapes"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_43'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "U5G7WE5FED",
+          "price": 46.52
+        },
+        {
+          "name": "J5LUI5AKVB",
+          "price": 31.65,
+          "id": "312DLBS8DJ1A9KZ"
+        },
+        {
+          "name": "1DWO3U72S4",
+          "price": 50.13
+        },
+        {
+          "name": "R7ZF188S28",
+          "price": 20.75,
+          "id": "ELKEZRHEZBCV2AL"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.03,
+        "rating_count": 970
+      },
+      "id": 43,
+      "product_link": "https://www.amazon.com/dp/43"
+    },
+    {
+      "image": "'https://images_44'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "HCC35JRX0V",
+          "price": 21.83
+        },
+        {
+          "name": "SID5HB0WSR",
+          "price": 67.47,
+          "id": "9783JV9NN310QSO"
+        },
+        {
+          "name": "IBWQK3QKO0",
+          "price": 60.49
+        },
+        {
+          "name": "1ZCCVHPFZ2",
+          "price": 66.43,
+          "id": "0CGASXMI1M53264"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.93,
+        "rating_count": 549
+      },
+      "id": 44,
+      "product_link": "https://www.amazon.com/dp/44",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_45'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "U30X508QYN",
+          "price": 27.5
+        },
+        {
+          "name": "ALKYCWDH3V",
+          "price": 89.7,
+          "id": "5694U28UWG7N8UT"
+        },
+        {
+          "name": "943M7QG1F5",
+          "price": 93.49
+        },
+        {
+          "name": "2WTWQVIRFC",
+          "price": 76.19,
+          "id": "EBX5ZFFBNGR1BPJ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.35,
+        "rating_count": 211
+      },
+      "id": 45,
+      "product_link": "https://www.amazon.com/dp/45",
+      "bsr": [
+        {
+          "position": 56952,
+          "category": "Health & Personal Care"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_46'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "11LV8RZ58M",
+          "price": 24.46
+        },
+        {
+          "name": "VX0477M424",
+          "price": 83.28,
+          "id": "UJ4ONZ9UTTQKGJ1"
+        },
+        {
+          "name": "2N7642Q6J5",
+          "price": 21.33
+        },
+        {
+          "name": "91SKR0QXLO",
+          "price": 56.26,
+          "id": "872BBGY80JHYY2M"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.44,
+        "rating_count": 337
+      },
+      "id": 46,
+      "product_link": "https://www.amazon.com/dp/46",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_47'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "DFAG59CF4V",
+          "price": 84.72
+        },
+        {
+          "name": "MVTQ2WO0VC",
+          "price": 26.06,
+          "id": "4YHAT65BBNNMEYE"
+        },
+        {
+          "name": "QLYY7B17BU",
+          "price": 63.47
+        },
+        {
+          "name": "O7UDW3YRKK",
+          "price": 94.12,
+          "id": "VS9N37K50ENPUTM"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.2,
+        "rating_count": 967
+      },
+      "id": 47,
+      "product_link": "https://www.amazon.com/dp/47"
+    },
+    {
+      "image": "'https://images_48'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "LKF7B1V6A7",
+          "price": 66.66
+        },
+        {
+          "name": "FKVK7ICLC8",
+          "price": 98.26,
+          "id": "SJ3Y222ZBMU6JI8"
+        },
+        {
+          "name": "XATSB33N8A",
+          "price": 39.38
+        },
+        {
+          "name": "J70CACQDJQ",
+          "price": 50.83,
+          "id": "MTIRSIQQO09J88Z"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.27,
+        "rating_count": 68
+      },
+      "id": 48,
+      "product_link": "https://www.amazon.com/dp/48",
+      "bsr": [
+        {
+          "position": 76745,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 39857,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 66192,
+          "category": "Office Labeling Tapes"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_49'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "TYBUZV22GZ",
+          "price": 49.01
+        },
+        {
+          "name": "B0PTVXMYGB",
+          "price": 68.27,
+          "id": "EHSF2MK09XLPA3A"
+        },
+        {
+          "name": "E37JSEXM7A",
+          "price": 40.18
+        },
+        {
+          "name": "4ZBTZ8QBAL",
+          "price": 88.25,
+          "id": "O1CGUZV5J3PES7Y"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.88,
+        "rating_count": 512
+      },
+      "id": 49,
+      "product_link": "https://www.amazon.com/dp/49"
+    },
+    {
+      "image": "'https://images_50'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "IQMJFST910",
+          "price": 59.25
+        },
+        {
+          "name": "VQ30OQ5X3C",
+          "price": 45.97,
+          "id": "CMT3AOXI2A0O4Q1"
+        },
+        {
+          "name": "WOASLQZ86N",
+          "price": 76.07
+        },
+        {
+          "name": "AF128JJCZ0",
+          "price": 24.51,
+          "id": "2G1POMV5O6PN6MS"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.08,
+        "rating_count": 604
+      },
+      "id": 50,
+      "product_link": "https://www.amazon.com/dp/50",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_51'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "X7NV27W7AT",
+          "price": 58.32
+        },
+        {
+          "name": "PA90UCQUGJ",
+          "price": 37.81,
+          "id": "I8C0E9EVW59TIVI"
+        },
+        {
+          "name": "P027846E4B",
+          "price": 67.17
+        },
+        {
+          "name": "FDUT4YEKEG",
+          "price": 27.5,
+          "id": "OZUF8TIS2M0ILQK"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.1,
+        "rating_count": 602
+      },
+      "id": 51,
+      "product_link": "https://www.amazon.com/dp/51",
+      "bsr": [
+        {
+          "position": 78432,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 99918,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 41926,
+          "category": "Office Labeling Tapes"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_52'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "8KHBW5O8MP",
+          "price": 41.84
+        },
+        {
+          "name": "HILS78ZKMK",
+          "price": 66.61,
+          "id": "79H8GPFJB3UMOD3"
+        },
+        {
+          "name": "L6IT9K73FK",
+          "price": 23.67
+        },
+        {
+          "name": "8DMBAV6HQP",
+          "price": 74.36,
+          "id": "Q1926063AR3YJZM"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.24,
+        "rating_count": 999
+      },
+      "id": 52,
+      "product_link": "https://www.amazon.com/dp/52",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_53'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "GVA3K9ZKOI",
+          "price": 41.11
+        },
+        {
+          "name": "SKSRSX2MFV",
+          "price": 84.93,
+          "id": "DCCRRTIXEYDENHD"
+        },
+        {
+          "name": "YSJ2225MUZ",
+          "price": 76.8
+        },
+        {
+          "name": "18A8E9O81S",
+          "price": 74.15,
+          "id": "EGZ49PVS9GNCX84"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.77,
+        "rating_count": 937
+      },
+      "id": 53,
+      "product_link": "https://www.amazon.com/dp/53"
+    },
+    {
+      "image": "'https://images_54'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "XTSUF7WAOA",
+          "price": 15.21
+        },
+        {
+          "name": "8V6VORUMYD",
+          "price": 31.12,
+          "id": "HNTMZZJLAPCV3Z5"
+        },
+        {
+          "name": "91QHXRNWIR",
+          "price": 17.72
+        },
+        {
+          "name": "FJA6031GYI",
+          "price": 20.94,
+          "id": "8Z0VEHX5FX1VTA5"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.81,
+        "rating_count": 963
+      },
+      "id": 54,
+      "product_link": "https://www.amazon.com/dp/54",
+      "bsr": [
+        {
+          "position": 55797,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_55'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "OL81BXBK76",
+          "price": 49.25
+        },
+        {
+          "name": "XBO6ADT0MM",
+          "price": 88.53,
+          "id": "5KVVGIJ5OVS93DG"
+        },
+        {
+          "name": "WXJ4F95WC7",
+          "price": 75.16
+        },
+        {
+          "name": "3NL60B9TXM",
+          "price": 53.16,
+          "id": "B6JKIGN7C7BNDLD"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.44,
+        "rating_count": 538
+      },
+      "id": 55,
+      "product_link": "https://www.amazon.com/dp/55"
+    },
+    {
+      "image": "'https://images_56'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "BAR8Y0Q9DI",
+          "price": 34.65
+        },
+        {
+          "name": "6NZXJA8E0B",
+          "price": 39.24,
+          "id": "J1PQ89JX88A1YZV"
+        },
+        {
+          "name": "9FGQ6ZLV77",
+          "price": 68.34
+        },
+        {
+          "name": "4UCALBXUSB",
+          "price": 96.66,
+          "id": "QA5V13JGBMYD92R"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.38,
+        "rating_count": 453
+      },
+      "id": 56,
+      "product_link": "https://www.amazon.com/dp/56",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_57'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "60JU4ZYQP2",
+          "price": 92.04
+        },
+        {
+          "name": "ICEIFZU837",
+          "price": 45.08,
+          "id": "50NM322YR637HTN"
+        },
+        {
+          "name": "5E1GGG8XW9",
+          "price": 32.68
+        },
+        {
+          "name": "1TTDA80B58",
+          "price": 74.27,
+          "id": "SGUDYUVDJE0R2GI"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.37,
+        "rating_count": 997
+      },
+      "id": 57,
+      "product_link": "https://www.amazon.com/dp/57",
+      "bsr": [
+        {
+          "position": 31939,
+          "category": "Books"
+        },
+        {
+          "position": 27349,
+          "category": "Physics"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_58'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "KKWHOACDLH",
+          "price": 57.24
+        },
+        {
+          "name": "RPPLGW2HSV",
+          "price": 99.47,
+          "id": "1ZAO1SOZGWGDXK3"
+        },
+        {
+          "name": "63KZH2GEQA",
+          "price": 25.53
+        },
+        {
+          "name": "KI3SH5IAKV",
+          "price": 34.75,
+          "id": "X2LJIBHF6ULXFQR"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.16,
+        "rating_count": 322
+      },
+      "id": 58,
+      "product_link": "https://www.amazon.com/dp/58",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_59'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "E4AOI4DYPD",
+          "price": 72.53
+        },
+        {
+          "name": "GUVK21V37H",
+          "price": 70.06,
+          "id": "NRWBWHRYR2NHXMY"
+        },
+        {
+          "name": "KAAHE2CYI0",
+          "price": 81.73
+        },
+        {
+          "name": "SAT2Z1WX62",
+          "price": 83.19,
+          "id": "VQVIO45Y9D5ZW2P"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.22,
+        "rating_count": 190
+      },
+      "id": 59,
+      "product_link": "https://www.amazon.com/dp/59"
+    },
+    {
+      "image": "'https://images_60'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "0W25UAS24H",
+          "price": 82.07
+        },
+        {
+          "name": "4CB1NS1DH7",
+          "price": 86.03,
+          "id": "GF127228LRYDETY"
+        },
+        {
+          "name": "ADGZVISEO5",
+          "price": 20.28
+        },
+        {
+          "name": "HRQBYT247D",
+          "price": 69.08,
+          "id": "30A4VL00E774DSU"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.98,
+        "rating_count": 993
+      },
+      "id": 60,
+      "product_link": "https://www.amazon.com/dp/60",
+      "bsr": [
+        {
+          "position": 91836,
+          "category": "Books"
+        },
+        {
+          "position": 30552,
+          "category": "Physics"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_61'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "HCV1I9E3QN",
+          "price": 85.8
+        },
+        {
+          "name": "I748571EZ6",
+          "price": 60.73,
+          "id": "9D56CIZ52O2HIBA"
+        },
+        {
+          "name": "ONJ6MU4OXJ",
+          "price": 32.02
+        },
+        {
+          "name": "AV2GMNWHLU",
+          "price": 12.05,
+          "id": "P5DDOBC1IZL9F0P"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.23,
+        "rating_count": 921
+      },
+      "id": 61,
+      "product_link": "https://www.amazon.com/dp/61"
+    },
+    {
+      "image": "'https://images_62'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "I8FG0NMJFD",
+          "price": 21.14
+        },
+        {
+          "name": "RUUQQ284ZY",
+          "price": 46.32,
+          "id": "QOFA4QNACSNVUTH"
+        },
+        {
+          "name": "38IE7H8FFP",
+          "price": 15.77
+        },
+        {
+          "name": "72FPTLWQ6K",
+          "price": 36.88,
+          "id": "BA8EUQ44GEU2516"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.28,
+        "rating_count": 356
+      },
+      "id": 62,
+      "product_link": "https://www.amazon.com/dp/62",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_63'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "IJ7ZDK1LCO",
+          "price": 18.99
+        },
+        {
+          "name": "PGZSN75FUU",
+          "price": 73.08,
+          "id": "AZ59JP253COFCIF"
+        },
+        {
+          "name": "3L37DELIPA",
+          "price": 76.63
+        },
+        {
+          "name": "RJB5KC7JWR",
+          "price": 78.64,
+          "id": "XDBK750TVW88PTH"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.54,
+        "rating_count": 567
+      },
+      "id": 63,
+      "product_link": "https://www.amazon.com/dp/63",
+      "bsr": [
+        {
+          "position": 75124,
+          "category": "Health & Personal Care"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_64'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "7QUI4VU0NF",
+          "price": 49.92
+        },
+        {
+          "name": "3RDPJJ9LEQ",
+          "price": 93.69,
+          "id": "WGQREX56A8G6F6D"
+        },
+        {
+          "name": "MAA6FE647Q",
+          "price": 75.7
+        },
+        {
+          "name": "HAJ0J7GRLY",
+          "price": 20.37,
+          "id": "PIPVAZTIC1Z4OMG"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.31,
+        "rating_count": 374
+      },
+      "id": 64,
+      "product_link": "https://www.amazon.com/dp/64",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_65'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "B398DQMZRE",
+          "price": 44.99
+        },
+        {
+          "name": "X1MU2CFZWD",
+          "price": 27.81,
+          "id": "VCKWXXMAD4QMQ8N"
+        },
+        {
+          "name": "9WQ3733LJB",
+          "price": 96.73
+        },
+        {
+          "name": "AY75QVB39R",
+          "price": 74.09,
+          "id": "31XI8DLKR2PGJ6F"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.76,
+        "rating_count": 148
+      },
+      "id": 65,
+      "product_link": "https://www.amazon.com/dp/65"
+    },
+    {
+      "image": "'https://images_66'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "KI3QI0FWDO",
+          "price": 62.04
+        },
+        {
+          "name": "KBL7XLPUXH",
+          "price": 18.13,
+          "id": "VFY22KDZIUKMZQQ"
+        },
+        {
+          "name": "YO3EL2Z2X2",
+          "price": 42.79
+        },
+        {
+          "name": "O53E5DJPI3",
+          "price": 94.71,
+          "id": "HVOKMO0XIRHK3C6"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.32,
+        "rating_count": 266
+      },
+      "id": 66,
+      "product_link": "https://www.amazon.com/dp/66",
+      "bsr": [
+        {
+          "position": 69246,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_67'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "785ABJGZXX",
+          "price": 82.85
+        },
+        {
+          "name": "ZZCS7VUVP2",
+          "price": 61.77,
+          "id": "DLLX5KYCK1JKLBI"
+        },
+        {
+          "name": "L5CLB5Y4JF",
+          "price": 21.51
+        },
+        {
+          "name": "9RAJ9R0T8L",
+          "price": 65.68,
+          "id": "09WBIP7YEN1VVSR"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.1,
+        "rating_count": 526
+      },
+      "id": 67,
+      "product_link": "https://www.amazon.com/dp/67"
+    },
+    {
+      "image": "'https://images_68'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "HOZFOWXPTP",
+          "price": 27.33
+        },
+        {
+          "name": "A2W5UEXOHW",
+          "price": 38.38,
+          "id": "C8A8GX1P7GKP4CA"
+        },
+        {
+          "name": "NTZ34GRR4P",
+          "price": 31.38
+        },
+        {
+          "name": "UHXR1Q3FVO",
+          "price": 58.35,
+          "id": "ZPF9149BPACSEW4"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.56,
+        "rating_count": 338
+      },
+      "id": 68,
+      "product_link": "https://www.amazon.com/dp/68",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_69'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "7F0C42SDS3",
+          "price": 54.03
+        },
+        {
+          "name": "ZCX30EJV6J",
+          "price": 22.14,
+          "id": "S8193P0ZEFGIC7A"
+        },
+        {
+          "name": "WL34C3OR78",
+          "price": 15.22
+        },
+        {
+          "name": "RW4Q880N1Q",
+          "price": 31.24,
+          "id": "1STRUE1BY5CYI7I"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.04,
+        "rating_count": 614
+      },
+      "id": 69,
+      "product_link": "https://www.amazon.com/dp/69",
+      "bsr": [
+        {
+          "position": 57915,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 92814,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 8484,
+          "category": "Office Labeling Tapes"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_70'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "99LVFSAKMQ",
+          "price": 77.54
+        },
+        {
+          "name": "DL0VYMHGH7",
+          "price": 27.32,
+          "id": "AIYHADM4I8SKGQ7"
+        },
+        {
+          "name": "LJ0V53TBRS",
+          "price": 57.91
+        },
+        {
+          "name": "NIV8SEXPEG",
+          "price": 20.78,
+          "id": "M1PIEQOFV6R2EO3"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.14,
+        "rating_count": 357
+      },
+      "id": 70,
+      "product_link": "https://www.amazon.com/dp/70",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_71'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "AGXVLPH6WU",
+          "price": 84.09
+        },
+        {
+          "name": "DS8BB4KL17",
+          "price": 56.25,
+          "id": "4I3GMKOEBBLW1TA"
+        },
+        {
+          "name": "IB3WLNGKU2",
+          "price": 46.78
+        },
+        {
+          "name": "SOTHSHZ00Z",
+          "price": 65.14,
+          "id": "RBRVN3EMFSQZ9AQ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.82,
+        "rating_count": 123
+      },
+      "id": 71,
+      "product_link": "https://www.amazon.com/dp/71"
+    },
+    {
+      "image": "'https://images_72'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "B45365FFWI",
+          "price": 74.79
+        },
+        {
+          "name": "AXSIOZILAJ",
+          "price": 71.66,
+          "id": "VTSGK7YUYBGSLD7"
+        },
+        {
+          "name": "MPZ00FJTDH",
+          "price": 62.7
+        },
+        {
+          "name": "ALRRM8NP0E",
+          "price": 39.14,
+          "id": "JB1QU3IX3Z3ILEV"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.45,
+        "rating_count": 558
+      },
+      "id": 72,
+      "product_link": "https://www.amazon.com/dp/72",
+      "bsr": [
+        {
+          "position": 9301,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_73'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "DUZTN5J6OJ",
+          "price": 44.21
+        },
+        {
+          "name": "VUJ133GT2Z",
+          "price": 64.49,
+          "id": "U4G3AOWVGHCIHPI"
+        },
+        {
+          "name": "36KWVE43UA",
+          "price": 17.87
+        },
+        {
+          "name": "J0PHMVEQ79",
+          "price": 33.73,
+          "id": "6OIXY5SER7UY38Y"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.83,
+        "rating_count": 960
+      },
+      "id": 73,
+      "product_link": "https://www.amazon.com/dp/73"
+    },
+    {
+      "image": "'https://images_74'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "LL600ICV4Y",
+          "price": 90.56
+        },
+        {
+          "name": "YLSHGO0ILH",
+          "price": 14.93,
+          "id": "HV77Z8Q0ZZFKDGC"
+        },
+        {
+          "name": "7D55PUPOQM",
+          "price": 27.21
+        },
+        {
+          "name": "KJW4YKQQ5W",
+          "price": 88.05,
+          "id": "1V7S47QOL0ARTM7"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.94,
+        "rating_count": 84
+      },
+      "id": 74,
+      "product_link": "https://www.amazon.com/dp/74",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_75'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "V3ALNIJ3DK",
+          "price": 74.25
+        },
+        {
+          "name": "BSPI8KI0HB",
+          "price": 40.28,
+          "id": "9YW2NWKQNQZC0J0"
+        },
+        {
+          "name": "101F1RWRFB",
+          "price": 80.77
+        },
+        {
+          "name": "AHNU93G16X",
+          "price": 55.64,
+          "id": "KYTCBJ3AEJMYXM1"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.53,
+        "rating_count": 663
+      },
+      "id": 75,
+      "product_link": "https://www.amazon.com/dp/75",
+      "bsr": [
+        {
+          "position": 35617,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 21953,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 27404,
+          "category": "Office Labeling Tapes"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_76'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "9NVWZYAV5U",
+          "price": 78.97
+        },
+        {
+          "name": "XNVL2JUDSF",
+          "price": 49.63,
+          "id": "WGRQVFODXZBW92H"
+        },
+        {
+          "name": "7SYA8T2HOP",
+          "price": 67.16
+        },
+        {
+          "name": "ZJPVA4TS35",
+          "price": 14.84,
+          "id": "QRVDLEKDFIYDR4U"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.11,
+        "rating_count": 644
+      },
+      "id": 76,
+      "product_link": "https://www.amazon.com/dp/76",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_77'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "O7UW5VX5PD",
+          "price": 68.7
+        },
+        {
+          "name": "WP18AN0CSA",
+          "price": 15.9,
+          "id": "1IVO5E8QE8ZR0TT"
+        },
+        {
+          "name": "0LAT7MQJTN",
+          "price": 94.29
+        },
+        {
+          "name": "CQJA8XX0UP",
+          "price": 48.78,
+          "id": "5LVMECDANBY2NFS"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.11,
+        "rating_count": 902
+      },
+      "id": 77,
+      "product_link": "https://www.amazon.com/dp/77"
+    },
+    {
+      "image": "'https://images_78'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "5UAQUXO9EC",
+          "price": 59.29
+        },
+        {
+          "name": "RHSMQ2Y4HI",
+          "price": 18.94,
+          "id": "VXTLCSMNVI4IS0W"
+        },
+        {
+          "name": "0X8G9AWQAS",
+          "price": 46.55
+        },
+        {
+          "name": "F3ICR80EBJ",
+          "price": 16.74,
+          "id": "P1Z8KCPE9CFEVE2"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.64,
+        "rating_count": 294
+      },
+      "id": 78,
+      "product_link": "https://www.amazon.com/dp/78",
+      "bsr": [
+        {
+          "position": 93665,
+          "category": "Health & Personal Care"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_79'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "KDFHRIWCFQ",
+          "price": 29.0
+        },
+        {
+          "name": "XJHSMSYC91",
+          "price": 41.29,
+          "id": "GRVH3GRQ5MKQ5WO"
+        },
+        {
+          "name": "2D5PK98PYT",
+          "price": 68.46
+        },
+        {
+          "name": "QPLP5Y3CUK",
+          "price": 83.39,
+          "id": "MU3ATMPVU1NK0SZ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.32,
+        "rating_count": 795
+      },
+      "id": 79,
+      "product_link": "https://www.amazon.com/dp/79"
+    },
+    {
+      "image": "'https://images_80'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "VJHPUUC2YP",
+          "price": 54.81
+        },
+        {
+          "name": "K83BYWVS7R",
+          "price": 57.58,
+          "id": "FAPJVLYWKQDN1TA"
+        },
+        {
+          "name": "96VNT8WWBE",
+          "price": 29.98
+        },
+        {
+          "name": "QSJ1IIJDD9",
+          "price": 67.82,
+          "id": "M4RBGF9V0FX5VS1"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.63,
+        "rating_count": 751
+      },
+      "id": 80,
+      "product_link": "https://www.amazon.com/dp/80",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_81'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "JPDVLCNH75",
+          "price": 74.65
+        },
+        {
+          "name": "EAK5G38UQ3",
+          "price": 59.21,
+          "id": "R3Z44VKQTUAWAEZ"
+        },
+        {
+          "name": "O8N1DQ26OF",
+          "price": 29.42
+        },
+        {
+          "name": "2UX16VZFH1",
+          "price": 74.86,
+          "id": "FQ94ANWQKMVQ8XO"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.19,
+        "rating_count": 96
+      },
+      "id": 81,
+      "product_link": "https://www.amazon.com/dp/81",
+      "bsr": [
+        {
+          "position": 87281,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 28977,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 92693,
+          "category": "Office Labeling Tapes"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_82'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "W78T8SY7AV",
+          "price": 46.69
+        },
+        {
+          "name": "KM00ADGPUO",
+          "price": 56.27,
+          "id": "OA0Y4VA2WQ2X8DB"
+        },
+        {
+          "name": "2TG8518CBS",
+          "price": 33.17
+        },
+        {
+          "name": "9F5C7JEO21",
+          "price": 47.55,
+          "id": "7OALBNBDI5UA61N"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.55,
+        "rating_count": 545
+      },
+      "id": 82,
+      "product_link": "https://www.amazon.com/dp/82",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_83'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "JEL0CMZUH4",
+          "price": 55.96
+        },
+        {
+          "name": "8UF7Z7US0A",
+          "price": 26.31,
+          "id": "O0UR7JIY23W9V9X"
+        },
+        {
+          "name": "FJ10AYWW4C",
+          "price": 55.04
+        },
+        {
+          "name": "CGVGNDEH2N",
+          "price": 45.67,
+          "id": "YGWBQ4NYZ79RBTH"
+        }
+      ],
+      "reviews": {
+        "rating_average": 1.01,
+        "rating_count": 461
+      },
+      "id": 83,
+      "product_link": "https://www.amazon.com/dp/83"
+    },
+    {
+      "image": "'https://images_84'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "XIWS2MH94S",
+          "price": 83.47
+        },
+        {
+          "name": "ZKQYF3P3F1",
+          "price": 85.4,
+          "id": "XCYLYFM2BW9XQSU"
+        },
+        {
+          "name": "LI3ZYKGG4P",
+          "price": 88.71
+        },
+        {
+          "name": "35571EG4SU",
+          "price": 11.63,
+          "id": "W1EQ38HDKHNSP62"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.53,
+        "rating_count": 257
+      },
+      "id": 84,
+      "product_link": "https://www.amazon.com/dp/84",
+      "bsr": [
+        {
+          "position": 23583,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 67507,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 59995,
+          "category": "Office Labeling Tapes"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_85'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "LV79VBR1CW",
+          "price": 65.7
+        },
+        {
+          "name": "7IPLE0220O",
+          "price": 43.61,
+          "id": "9K1B41F8B1GCE3F"
+        },
+        {
+          "name": "E75EO6WDKZ",
+          "price": 75.85
+        },
+        {
+          "name": "5G8J3DB8YK",
+          "price": 43.07,
+          "id": "2IP7YUP4V7XWCVO"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.62,
+        "rating_count": 422
+      },
+      "id": 85,
+      "product_link": "https://www.amazon.com/dp/85"
+    },
+    {
+      "image": "'https://images_86'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "D9MVIJ5Q0Z",
+          "price": 11.08
+        },
+        {
+          "name": "79W5HM3326",
+          "price": 62.03,
+          "id": "ATCUGIRBOEMORD0"
+        },
+        {
+          "name": "YQXWSDO45E",
+          "price": 97.59
+        },
+        {
+          "name": "SA0U8YXTAQ",
+          "price": 40.34,
+          "id": "DRX757BD178CSEZ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.64,
+        "rating_count": 821
+      },
+      "id": 86,
+      "product_link": "https://www.amazon.com/dp/86",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_87'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "59YAWDX5E9",
+          "price": 46.88
+        },
+        {
+          "name": "931U5UCFOY",
+          "price": 86.95,
+          "id": "U032EYIT7GB6LKI"
+        },
+        {
+          "name": "3PJMVZJ6Y6",
+          "price": 93.64
+        },
+        {
+          "name": "WOHZI0JM86",
+          "price": 28.91,
+          "id": "6KAW4QNN818N7BW"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.33,
+        "rating_count": 623
+      },
+      "id": 87,
+      "product_link": "https://www.amazon.com/dp/87",
+      "bsr": [
+        {
+          "position": 77574,
+          "category": "Books"
+        },
+        {
+          "position": 5077,
+          "category": "Physics"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_88'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "20GRV5MBK7",
+          "price": 31.69
+        },
+        {
+          "name": "W8CDSSMOWT",
+          "price": 77.26,
+          "id": "7EQTKON8ETGCAVK"
+        },
+        {
+          "name": "4892KICXYY",
+          "price": 98.66
+        },
+        {
+          "name": "4TI1QD1LJA",
+          "price": 56.11,
+          "id": "6W4MD2C6H3TRBR8"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.22,
+        "rating_count": 434
+      },
+      "id": 88,
+      "product_link": "https://www.amazon.com/dp/88",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_89'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "G9S7Q68ED1",
+          "price": 17.44
+        },
+        {
+          "name": "K3YKEJFAAM",
+          "price": 44.1,
+          "id": "SL47EHGJWFH0K1O"
+        },
+        {
+          "name": "TP13NAKO6W",
+          "price": 76.54
+        },
+        {
+          "name": "MI5OGY032H",
+          "price": 39.37,
+          "id": "CL1ZH7Z09YU5HTP"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.23,
+        "rating_count": 336
+      },
+      "id": 89,
+      "product_link": "https://www.amazon.com/dp/89"
+    },
+    {
+      "image": "'https://images_90'",
+      "category": "Physics",
+      "seller_list": [
+        {
+          "name": "VQ5UE8XD0L",
+          "price": 13.9
+        },
+        {
+          "name": "M6J4MDJNE7",
+          "price": 32.57,
+          "id": "31M157IZTCO6QVR"
+        },
+        {
+          "name": "YYIJ6E0BC4",
+          "price": 65.48
+        },
+        {
+          "name": "OCBJ0VSWH1",
+          "price": 85.22,
+          "id": "WE9QMA7WRWJE4OG"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.0,
+        "rating_count": 288
+      },
+      "id": 90,
+      "product_link": "https://www.amazon.com/dp/90",
+      "bsr": [
+        {
+          "position": 52549,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 64605,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 4249,
+          "category": "Office Labeling Tapes"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_91'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "28GFRQHP7A",
+          "price": 80.53
+        },
+        {
+          "name": "EIR955PODE",
+          "price": 66.47,
+          "id": "1RT8YZHZ9RCOQJ5"
+        },
+        {
+          "name": "Y071VDPWGW",
+          "price": 61.18
+        },
+        {
+          "name": "BFY0B3PNCE",
+          "price": 75.76,
+          "id": "FWD3EQOS3RXZ1ZO"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.92,
+        "rating_count": 955
+      },
+      "id": 91,
+      "product_link": "https://www.amazon.com/dp/91"
+    },
+    {
+      "image": "'https://images_92'",
+      "category": "Health & Personal Care",
+      "seller_list": [
+        {
+          "name": "7WURXE39AW",
+          "price": 81.33
+        },
+        {
+          "name": "2YLARO51RV",
+          "price": 96.0,
+          "id": "U8DK7UIEGLY0FBN"
+        },
+        {
+          "name": "FDW1NZ52FD",
+          "price": 83.22
+        },
+        {
+          "name": "LEFG95WVMI",
+          "price": 85.72,
+          "id": "3AXC78HAV62R9H3"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.7,
+        "rating_count": 129
+      },
+      "id": 92,
+      "product_link": "https://www.amazon.com/dp/92",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_93'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "83KVM5AAGJ",
+          "price": 74.59
+        },
+        {
+          "name": "6XBPT2DXJH",
+          "price": 55.32,
+          "id": "5SUCTTU5R2F13SA"
+        },
+        {
+          "name": "UU34LPU3RY",
+          "price": 15.05
+        },
+        {
+          "name": "DVRH5FI39B",
+          "price": 96.45,
+          "id": "YIRAZN60PZD8VXR"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.63,
+        "rating_count": 239
+      },
+      "id": 93,
+      "product_link": "https://www.amazon.com/dp/93",
+      "bsr": [
+        {
+          "position": 40037,
+          "category": "Health & Personal Care"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_94'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "18W1RKGH9Q",
+          "price": 14.09
+        },
+        {
+          "name": "3FH73SMXW0",
+          "price": 73.76,
+          "id": "NB0U52VCUX9JR82"
+        },
+        {
+          "name": "ST8KOTGGEO",
+          "price": 83.39
+        },
+        {
+          "name": "G64M9ADCV4",
+          "price": 21.03,
+          "id": "W5INWZULQ8JVRQ2"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.53,
+        "rating_count": 794
+      },
+      "id": 94,
+      "product_link": "https://www.amazon.com/dp/94",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_95'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "10VITV5ONM",
+          "price": 80.78
+        },
+        {
+          "name": "6T9YKF40OL",
+          "price": 94.64,
+          "id": "5O6G8WQ9L9SMJ0Z"
+        },
+        {
+          "name": "K27LXL7M7X",
+          "price": 35.5
+        },
+        {
+          "name": "2JCQ5RTMEC",
+          "price": 15.24,
+          "id": "HEKQ4AQEMI7L5JZ"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.34,
+        "rating_count": 626
+      },
+      "id": 95,
+      "product_link": "https://www.amazon.com/dp/95"
+    },
+    {
+      "image": "'https://images_96'",
+      "category": "Books",
+      "seller_list": [
+        {
+          "name": "2VA4B488PB",
+          "price": 19.84
+        },
+        {
+          "name": "TCL8HZME8N",
+          "price": 18.38,
+          "id": "DLY8Y5JERXC6WAG"
+        },
+        {
+          "name": "E0T2B3YY9V",
+          "price": 90.6
+        },
+        {
+          "name": "QTNYQHNPP4",
+          "price": 88.31,
+          "id": "I7CEZRE3AH0A4RV"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.65,
+        "rating_count": 944
+      },
+      "id": 96,
+      "product_link": "https://www.amazon.com/dp/96",
+      "bsr": [
+        {
+          "position": 832,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 97151,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 22287,
+          "category": "Office Labeling Tapes"
+        }
+      ],
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_97'",
+      "category": "Industrial & Scientific",
+      "seller_list": [
+        {
+          "name": "5BISXFC1GM",
+          "price": 99.08
+        },
+        {
+          "name": "4LZ0P9N058",
+          "price": 21.26,
+          "id": "AUJFB7HSZVL49H6"
+        },
+        {
+          "name": "9BD1SOH63V",
+          "price": 61.57
+        },
+        {
+          "name": "DOVA79OXKE",
+          "price": 78.41,
+          "id": "XQGRUNI8EC0FD6E"
+        }
+      ],
+      "reviews": {
+        "rating_average": 2.52,
+        "rating_count": 454
+      },
+      "id": 97,
+      "product_link": "https://www.amazon.com/dp/97"
+    },
+    {
+      "image": "'https://images_98'",
+      "category": "Office Labeling Tapes",
+      "seller_list": [
+        {
+          "name": "N2GSPOCAOV",
+          "price": 30.9
+        },
+        {
+          "name": "XYT0VYG1W2",
+          "price": 88.71,
+          "id": "6EDIC9P3MIF0CZ0"
+        },
+        {
+          "name": "57QK2AFQUY",
+          "price": 15.56
+        },
+        {
+          "name": "1H2UWT3A35",
+          "price": 46.6,
+          "id": "XODQYXEHL8QETHT"
+        }
+      ],
+      "reviews": {
+        "rating_average": 4.86,
+        "rating_count": 47
+      },
+      "id": 98,
+      "product_link": "https://www.amazon.com/dp/98",
+      "date_first_available": "2012-08-31"
+    },
+    {
+      "image": "'https://images_99'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "63R5295MQT",
+          "price": 15.0
+        },
+        {
+          "name": "G5FATI55W5",
+          "price": 93.27,
+          "id": "1G8H9R4QAOIQX2T"
+        },
+        {
+          "name": "8TOQRUDD4J",
+          "price": 44.48
+        },
+        {
+          "name": "4O1ZSKQK5R",
+          "price": 68.73,
+          "id": "CXYMSTISJ65AOPX"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.67,
+        "rating_count": 884
+      },
+      "id": 99,
+      "product_link": "https://www.amazon.com/dp/99",
+      "bsr": [
+        {
+          "position": 80815,
+          "category": "Industrial & Scientific"
+        },
+        {
+          "position": 31252,
+          "category": "Industrial Labeling Tape"
+        },
+        {
+          "position": 75922,
+          "category": "Office Labeling Tapes"
+        }
+      ]
+    },
+    {
+      "image": "'https://images_100'",
+      "category": "Industrial Labeling Tape",
+      "seller_list": [
+        {
+          "name": "4YJX3HWYHW",
+          "price": 65.84
+        },
+        {
+          "name": "N2C3HQYKR9",
+          "price": 73.89,
+          "id": "5PXBAEXCAZJADQA"
+        },
+        {
+          "name": "XZ2F4RR5RE",
+          "price": 30.93
+        },
+        {
+          "name": "OYSDG22UN0",
+          "price": 12.25,
+          "id": "W6F5VSP8TG3FQIB"
+        }
+      ],
+      "reviews": {
+        "rating_average": 3.95,
+        "rating_count": 10
+      },
+      "id": 100,
+      "product_link": "https://www.amazon.com/dp/100",
+      "date_first_available": "2012-08-31"
+    }
+  ]
+}

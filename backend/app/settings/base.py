@@ -4,6 +4,7 @@ from .path import TEMPLATES_PATH
 DEBUG = bool(os.getenv('DEBUG'))
 TEST = bool(os.getenv('TEST'))
 
+AUTH_USER_MODEL = 'user.User'
 ALLOWED_HOSTS = ['*']
 DEFAULT_SECRET_KEY = 'secretsecret'
 SECRET_KEY = os.getenv('SECRET_KEY', DEFAULT_SECRET_KEY)

@@ -9,3 +9,4 @@ from .base import *
 from .languages import *
 from .database import *
 from .path import *
+from .auth import *
