@@ -1,10 +1,8 @@
-def get_bsr_category_kwargs(category_data, parent, category):
+def get_bsr_category_kwargs(category_data, parent):
     kwargs = {
         'title': category_data['category'],
         'parent': parent,
     }
-    if category:
-        kwargs['id'] = category['id']
     return kwargs
 
 
@@ -22,12 +20,14 @@ def get_product_kwargs(product_data, category):
     return kwargs
 
 
-def get_not_bsr_category_kwargs(product_data, category):
+def get_not_bsr_category_kwargs(product_data):
     kwargs = {
         'title': product_data['category'],
+        'lft': 0,
+        'rght': 0,
+        'level': 0,
+        'tree_id': 0,
     }
-    if category:
-        kwargs['id'] = category['id']
     return kwargs
 
 
@@ -49,7 +49,8 @@ def get_prices_kwargs(seller_data, seller, product):
     return kwargs
 
 
-def set_kwargs(update_fields_list, kwargs):
+def check_kwargs(update_fields_list, kwargs):
     for key in list(kwargs.keys()):
-        update_fields_list.append(key)
+        if key not in update_fields_list:
+            update_fields_list.append(key)
     return update_fields_list

@@ -1,13 +1,13 @@
 import json
 
-from django.db import transaction, connection
+from django.db import transaction
 from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
 from products import serializers
 from products.models import Product, Category, Price
-from products.views.helper import form_objs_querysets, form_data
+from products.views.helper import form_objs_lists, form_data
 from user.models import Seller
 
 
@@ -19,7 +19,6 @@ def update_values_view(request):
         validated_jobs = validated_dict['jobs']
         update_values(validated_jobs)
 
-        print(len(connection.queries))
         response_status = status.HTTP_201_CREATED
         return Response(status=response_status)
     else:
@@ -28,15 +27,13 @@ def update_values_view(request):
         return Response(status=response_status, data=errors)
 
 
+@transaction.atomic
 def update_values(validated_jobs):
-    objs_querysets = form_objs_querysets(validated_jobs)
+    objs_querysets = form_objs_lists(validated_jobs)
     objs_for_update = form_data(validated_jobs, objs_querysets)
     if objs_for_update['categories_bulk_update_list']:
         Category.objects.bulk_update(objs_for_update['categories_bulk_update_list'],
                                      objs_for_update['categories_update_fields_list'])
-    if objs_for_update['categories_bulk_create_list']:
-        Category.objects.bulk_create(objs_for_update['categories_bulk_create_list'])
-
     if objs_for_update['product_update_list']:
         Product.objects.bulk_update(objs_for_update['product_update_list'],
                                     objs_for_update['product_update_fields_list'])

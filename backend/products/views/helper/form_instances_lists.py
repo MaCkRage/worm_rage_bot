@@ -2,21 +2,21 @@ from products.models import Category, Product, Price
 from user.models import Seller
 
 
-# TODO: ПЕРЕВЕСТИ ВСЕ НА VALUES И НА ДИКТЫ
-def form_objs_querysets(validated_jobs):
+def form_objs_lists(validated_jobs):
     objects_values_lists = form_objs_values_lists(validated_jobs)
     categories_queryset = Category.objects.filter(
-        title__in=objects_values_lists['categories_titles_list']).values('id', 'title', 'parent')
-    products_queryset = Product.objects.filter(id__in=objects_values_lists['products_id_list']).values('id')
+        title__in=objects_values_lists['categories_titles_list']).prefetch_related('product_category')
+    products_queryset = Product.objects.filter(id__in=objects_values_lists['products_id_list']).prefetch_related(
+        'product_prices')
     prices_queryset = Price.objects.filter(
-        seller__title__in=objects_values_lists['sellers_titles_list']).values('id', 'seller', 'product')
-    sellers_queryset = Seller.objects.filter(title__in=objects_values_lists['sellers_titles_list']).values('id', 'title')
-
+        seller__title__in=objects_values_lists['sellers_titles_list']).select_related('seller').select_related(
+        'product')
+    sellers_queryset = Seller.objects.filter(title__in=objects_values_lists['sellers_titles_list'])
     formed_data = {
-        'categories_queryset': categories_queryset,
-        'product_queryset': products_queryset,
-        'prices_queryset': prices_queryset,
-        'sellers_queryset': sellers_queryset,
+        'categories_queryset': list(categories_queryset),
+        'product_queryset': list(products_queryset),
+        'prices_queryset': list(prices_queryset),
+        'sellers_queryset': list(sellers_queryset),
     }
     return formed_data
 

@@ -1,25 +1,21 @@
-def get_bsr_category_obj(categories_list, category_data, parent):
-    if categories_list:
+def get_current_category_obj(categories_list, category_data, **kwargs):
+    parent = kwargs.get('parent')
+    if parent:
         for category in categories_list:
-            if category['title'] == category_data['category'] and category['parent'] == parent:
+            if category.title == category_data['category'] and category.parent == parent:
                 return category
+        return None
+    for category in categories_list:
+        if category.title == category_data['category']:
+            return category
     return None
 
 
-def get_no_bsr_current_category_obj(categories_list, category_data):
-    if categories_list:
-        for category in categories_list:
-            if category['title'] == category_data['category']:
-                return category
+def get_current_product_object(products_list, product_data):
+    for product in products_list:
+        if product.pk == product_data['id']:
+            return product
     return None
-
-
-def is_product(products_list, product_data):
-    if products_list:
-        for product in products_list:
-            if product['id'] == product_data['id']:
-                return True
-    return False
 
 
 def get_current_seller_obj(sellers_list, seller_price_data):
