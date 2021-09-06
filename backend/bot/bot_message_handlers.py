@@ -12,7 +12,7 @@ from .services.sci_hub import sci_hub_book_search
 
 
 @bot.message_handler(commands=commands_list)
-@access_limitation(bot)
+# @access_limitation(bot)
 def start_connection(message):
     if message.text == "/start":
         return bot.send_message(message.chat.id, message_start)
@@ -35,7 +35,7 @@ def start_connection(message):
 
 
 @bot.message_handler(content_types=['text'])
-@access_limitation(bot)
+# @access_limitation(bot)
 def find_books(message):
     if message.text in commands_list:
         return start_connection(message)
