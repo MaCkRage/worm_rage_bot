@@ -1,1 +1,0 @@
-from .update_product import UpdateProductSerializer

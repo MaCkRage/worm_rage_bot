@@ -2,9 +2,6 @@
 python manage.py shell -c "from utils.utils import clear_database; clear_database()"
 """
 import time
-
-from products.models import Category, Price, Product
-from user.models import Seller
 import random
 import string
 
@@ -14,10 +11,7 @@ def get_random_string(size=8, chars=string.ascii_uppercase + string.digits):
 
 
 def clear_database():
-    Category.objects.all().delete()
-    Price.objects.all().delete()
-    Product.objects.all().delete()
-    Seller.objects.all().delete()
+    pass
 
 
 start_time = time.time()

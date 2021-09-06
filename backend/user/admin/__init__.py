@@ -1,1 +1,1 @@
-from .sellers import SellerAdmin
+from .user import UserAdmin

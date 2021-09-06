@@ -13,6 +13,11 @@ django-debug-toolbar = "*"
 psycopg2 = "*"
 python-dotenv = "*"
 django-bulk-update-or-create = "*"
+beautifulsoup4 = '*'
+pyTelegramBotAPI = "*"
+python-telegram-bot-pagination = '*'
+requests = {extras = ["socks"], version = "*"}
+scidownl = "*"
 
 [dev-packages]
 
