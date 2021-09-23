@@ -39,11 +39,6 @@ def flibusta_book_search(message, search_text=None, page=1, call=False, pls_awai
         paginated_data = get_paginated_flibusta_response(markup_inlines_list, response_messages_list, search_text, page)
         message = send_paginated_message(message, pls_await_msg, paginated_data, call, [len(markup_inlines_list), page, paginated_data])
 
-    # Он стал дублировать когда я неправильно написал книгу и он её не нашёл
-    # Но это только в флибусте
-    # В сайхабе на ненаход не дублирует
-    # А когда находит?
-
     if not call:
         bot.register_next_step_handler(message, flibusta_book_search)
 
